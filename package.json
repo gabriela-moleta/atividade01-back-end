@@ -16,8 +16,8 @@
     "url": "https://github.com/gabriela-moleta/atividade01-back-end/issues"
   },
   "homepage": "https://github.com/gabriela-moleta/atividade01-back-end#readme",
-  "description": "",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "description": ""
 }
